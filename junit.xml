@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="jest tests" tests="1" failures="0" errors="0" time="4.533">
+  <testsuite name="Launch Browser" errors="0" failures="0" skipped="0" timestamp="2021-09-29T13:36:21" time="3.721" tests="1">
+    <testcase classname="Launch Browser Open Letcode" name="Launch Browser Open Letcode" time="1.053">
+    </testcase>
+  </testsuite>
+</testsuites>
