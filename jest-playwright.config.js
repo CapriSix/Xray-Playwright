@@ -2,7 +2,7 @@ module.exports = {
     browsers: ["chromium"],
     exitOnPageError: false,
     launchOptions: {
-        headless: true
+        headless: false
     },
     contextOptions: {
         recordVideo: {
