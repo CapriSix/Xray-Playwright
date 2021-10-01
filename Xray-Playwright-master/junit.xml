@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="jest tests" tests="3" failures="0" errors="0" time="10.533">
+  <testsuite name="Open Mathematics section in wikipedia" errors="0" failures="0" skipped="0" timestamp="2021-10-01T00:40:23" time="6.316" tests="1">
+    <testcase classname="Open Mathematics section in wikipedia Wikipedia EN -&gt; Maths" name="Open Mathematics section in wikipedia Wikipedia EN -&gt; Maths" time="3.148">
+    </testcase>
+  </testsuite>
+  <testsuite name="Launch Browser" errors="0" failures="0" skipped="0" timestamp="2021-10-01T00:40:23" time="8.521" tests="2">
+    <testcase classname="Launch Browser Open Wikipedia" name="Launch Browser Open Wikipedia" time="2.231">
+    </testcase>
+    <testcase classname="Launch Browser Open Wikipedia and Navigate to English" name="Launch Browser Open Wikipedia and Navigate to English" time="3.116">
+    </testcase>
+  </testsuite>
+</testsuites>
