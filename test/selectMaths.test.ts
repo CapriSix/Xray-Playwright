@@ -12,7 +12,7 @@ describe ('Open Mathematics section in wikipedia', () => {
         const page = await context.newPage();
         await page.goto('https://en.wikipedia.org/wiki/Main_Page');
         await page.click('text=Mathematics');
-        expect(page.url()).toContain('https://en.wikipedia.org/wiki/Portal:Mathematics');
+        expect(page.url()).toContain('https://en.wikipedia.org/wiki/Portal:Mathematic');
         await browser.close();
     });
     afterAll(async done => {
