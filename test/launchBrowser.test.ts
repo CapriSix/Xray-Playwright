@@ -23,7 +23,7 @@ describe ('Launch Browser', () => {
         const page = await context.newPage();
         await page.goto('https://www.wikipedia.org/');
         await page.click('text=English');
-        expect(page.url()).toContain('https://en.wikipedia.org/wiki/Main_Page1');
+        expect(page.url()).toContain('https://en.wikipedia.org/wiki/Main_Page');
         await browser.close();
     })
     afterAll(async done => {
